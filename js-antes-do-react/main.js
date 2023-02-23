@@ -1,3 +1,5 @@
+//startar o código: npm run dev
+
 //importar funções do arquivo lib
 //import { soma, subtracao } from './lib/math';
 //ou
